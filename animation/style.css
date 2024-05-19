@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+html
+body{
+    height: 100%;
+    width: 100%;
+}
+.name{
+    display: flex;
+    justify-content: space-evenly;
+}
+#box{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+#box2{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+}
+#box3{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(123, 0, 255);
+}
+#box4{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(195, 255, 0);
+}
